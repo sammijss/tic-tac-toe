@@ -1,15 +1,14 @@
 # tic-tac-toe
 
-[2020-06-08 11:04.09]  /media/c/Users/ssrivastava1/OneDrive/SAMMI/STUDY/Git/Repository/tic-tac-toe
-[SSrivastava1.59682X2] ➤ ll
+[2020-06-08 11:04.09]  /media/c/Users/sammi/Git/Repository/tic-tac-toe
+[Sammi.59682X2] ➤ ll
 total 9
 -rw-r--r--+ 1 SSrivastava1 UsersGrp 361 Jun  8 10:43 CMakeLists.txt
 drwxr-xr-x+ 1 SSrivastava1 UsersGrp   0 Jun  8 11:01 inc
 drwxr-xr-x+ 1 SSrivastava1 UsersGrp   0 Jun  8 11:03 src
-                                                                                                                                                                                         ✔
-──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
-[2020-06-08 11:04.11]  /media/c/Users/ssrivastava1/OneDrive/SAMMI/STUDY/Git/Repository/tic-tac-toe
-[SSrivastava1.59682X2] ➤ cmake CMakeLists.txt
+
+[2020-06-08 11:04.11]  /media/c/Users/sammi/Git/Repository/tic-tac-toe
+[Sammi.59682X2] ➤ cmake CMakeLists.txt
 -- TicTacToeGame Project by Sammi
 -- The C compiler identification is GNU 4.9.2
 -- The CXX compiler identification is GNU 4.9.2
@@ -44,11 +43,10 @@ Call Stack (most recent call first):
 -- Detecting CXX compiler ABI info - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /media/c/Users/ssrivastava1/OneDrive/SAMMI/STUDY/Git/Repository/tic-tac-toe
-                                                                                                                                                                                         ✔
-──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
-[2020-06-08 11:04.32]  /media/c/Users/ssrivastava1/OneDrive/SAMMI/STUDY/Git/Repository/tic-tac-toe
-[SSrivastava1.59682X2] ➤ ll
+-- Build files have been written to: /media/c/Users/sammi/Git/Repository/tic-tac-toe
+
+[2020-06-08 11:04.32]  /media/c/Users/sammi/Git/Repository/tic-tac-toe
+[Sammi.59682X2] ➤ ll
 total 37
 -rw-r--r--+ 1 SSrivastava1 UsersGrp  1561 Jun  8 11:04 cmake_install.cmake
 -rw-r--r--+ 1 SSrivastava1 UsersGrp 11880 Jun  8 11:04 CMakeCache.txt
@@ -57,12 +55,23 @@ drwxr-xr-x+ 1 SSrivastava1 UsersGrp     0 Jun  8 11:04 CMakeFiles
 drwxr-xr-x+ 1 SSrivastava1 UsersGrp     0 Jun  8 11:01 inc
 -rw-r--r--+ 1 SSrivastava1 UsersGrp  5559 Jun  8 11:04 Makefile
 drwxr-xr-x+ 1 SSrivastava1 UsersGrp     0 Jun  8 11:03 src
-                                                                                                                                                                                         ✔
-──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
-[2020-06-08 11:04.35]  /media/c/Users/ssrivastava1/OneDrive/SAMMI/STUDY/Git/Repository/tic-tac-toe
-[SSrivastava1.59682X2] ➤ make
+
+[2020-06-08 11:04.35]  /media/c/Users/sammi/Git/Repository/tic-tac-toe
+[Sammi.59682X2] ➤ make
 Scanning dependencies of target tic-tac-toe
 [ 50%] Building CXX object CMakeFiles/tic-tac-toe.dir/src/main.o
 [100%] Building CXX object CMakeFiles/tic-tac-toe.dir/src/TicTacToeGame.o
 Linking CXX executable tic-tac-toe.exe
 [100%] Built target tic-tac-toe
+
+[2020-06-08 11:07.36]  /media/c/Users/sammi/Git/Repository/tic-tac-toe
+[Sammi.59682X2] ➤ ll
+total 197
+-rw-r--r--+ 1 SSrivastava1 UsersGrp   1561 Jun  8 11:04 cmake_install.cmake
+-rw-r--r--+ 1 SSrivastava1 UsersGrp  11880 Jun  8 11:04 CMakeCache.txt
+drwxr-xr-x+ 1 SSrivastava1 UsersGrp      0 Jun  8 11:04 CMakeFiles
+-rw-r--r--+ 1 SSrivastava1 UsersGrp    361 Jun  8 10:43 CMakeLists.txt
+drwxr-xr-x+ 1 SSrivastava1 UsersGrp      0 Jun  8 11:01 inc
+-rw-r--r--+ 1 SSrivastava1 UsersGrp   5559 Jun  8 11:04 Makefile
+drwxr-xr-x+ 1 SSrivastava1 UsersGrp      0 Jun  8 11:03 src
+-rwxr-xr-x+ 1 SSrivastava1 UsersGrp 160638 Jun  8 11:04 tic-tac-toe.exe   <---- Binary to execute.
